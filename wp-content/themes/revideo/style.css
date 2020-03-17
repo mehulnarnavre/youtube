@@ -1,0 +1,82 @@
+/*
+Theme Name: ReVideo
+Author: Liton Arefin
+Author URI: https://prowptheme.com
+Description: ReVideo is Magazine WordPress Theme. ReVideo is a child Theme of VideoStories. Perfect for Magazine Websites, Blogging, Business websites etc.
+Version: 1.0.2
+Text Domain: revideo
+Template: videostories
+Tags: right-sidebar, custom-menu, editor-style, sticky-post, blog, two-columns, footer-widgets, custom-background, featured-images, post-formats, threaded-comments, translation-ready, full-width-template, entertainment
+
+
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+aside.sidebar .widget_categories a:hover,
+aside.sidebar .widget_archive a:hover,
+aside.sidebar .widget_pages a:hover,
+aside.sidebar .widget_nav_menu a:hover {
+  color: #d50000;
+  padding-left: 25px;
+}
+
+aside.sidebar .widget_categories a:hover:before,
+aside.sidebar .widget_archive a:hover:before,
+aside.sidebar .widget_pages a:hover:before,
+aside.sidebar .widget_nav_menu a:hover:before {
+  color: #d50000;
+  padding-left: 5px;
+}
+aside.sidebar a[class*="tag-"]:hover {
+  background: #d50000;
+  color: #fff;
+}
+aside.sidebar .tweet-slider .item a {
+  color: #d50000;
+}
+aside.sidebar .tweet-slider .item .date {
+  display: block;
+  color: #d50000;
+}
+aside.sidebar .tweet-slider .carousel-indicators li.active {
+  background: #d50000;
+}
+aside.sidebar .widget_cart .item-details .price,
+aside.sidebar .widget_cart .item-details .item-count {
+  color: #d50000;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 700;
+}
+aside.sidebar .widget_cart .cart-bottom .price-total .price {
+  color: #d50000;
+  display: inline-block;
+}
+aside.sidebar .widget_cart .cart-bottom .btn:hover {
+  background: #d50000;
+  color: #fff;
+}
+aside.sidebar .widget_rss a {
+  color: #d50000;
+}
+aside.sidebar .widget_recent_comments a{
+  word-wrap: break-word !important;
+}
+
+.comment-form-comment label{
+  display: block !important;
+}
+
+/* Banner Section */
+.banner-section .banner-contents .title a{
+    color: #fff;
+    font-family: 'Arizonia';
+    font-size: 33px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}

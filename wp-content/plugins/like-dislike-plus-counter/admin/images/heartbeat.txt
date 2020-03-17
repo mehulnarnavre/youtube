@@ -1,0 +1,2 @@
+1. heartbeat with button border.
+2. Counts on the top with circle

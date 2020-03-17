@@ -1,0 +1,1088 @@
+msgid   "<h2 class=\"section-title\">"
+msgstr  ""
+
+msgid   "</h2>"
+msgstr  ""
+
+msgid   "<div class=\"archive-description\">"
+msgstr  ""
+
+msgid   "</div>"
+msgstr  ""
+
+msgid   "template-parts/content"
+msgstr  ""
+
+msgid   "category"
+msgstr  ""
+
+msgid   "type"
+msgstr  ""
+
+msgid   "list"
+msgstr  ""
+
+msgid   "prev_text"
+msgstr  ""
+
+msgid   "Prev"
+msgstr  ""
+
+msgid   "videostories"
+msgstr  ""
+
+msgid   "next_text"
+msgstr  ""
+
+msgid   "Next"
+msgstr  ""
+
+msgid   "0 Comment"
+msgstr  ""
+
+msgid   "1 Comment"
+msgstr  ""
+
+msgid   "% Comments"
+msgstr  ""
+
+msgid   "page_comments"
+msgstr  ""
+
+msgid   "Comment navigation"
+msgstr  ""
+
+msgid   "Older Comments"
+msgstr  ""
+
+msgid   "Newer Comments"
+msgstr  ""
+
+msgid   "style"
+msgstr  ""
+
+msgid   "li"
+msgstr  ""
+
+msgid   "short_ping"
+msgstr  ""
+
+msgid   "callback"
+msgstr  ""
+
+msgid   "videostories_comment"
+msgstr  ""
+
+msgid   "avatar_size"
+msgstr  ""
+
+msgid   "comments"
+msgstr  ""
+
+msgid   "Comments are closed."
+msgstr  ""
+
+msgid   "footer-sidebar"
+msgstr  ""
+
+msgid   "VIDEOSTORIES"
+msgstr  ""
+
+msgid   "Name"
+msgstr  ""
+
+msgid   "VIDEOSTORIES_VER"
+msgstr  ""
+
+msgid   "Version"
+msgstr  ""
+
+msgid   "VIDEOSTORIES_CSS"
+msgstr  ""
+
+msgid   "/assets/css/"
+msgstr  ""
+
+msgid   "VIDEOSTORIES_JS"
+msgstr  ""
+
+msgid   "/assets/js/"
+msgstr  ""
+
+msgid   "VIDEOSTORIES_PATH"
+msgstr  ""
+
+msgid   "VIDEOSTORIES_THME_URI"
+msgstr  ""
+
+msgid   "AJAX_URL"
+msgstr  ""
+
+msgid   "admin-ajax.php"
+msgstr  ""
+
+msgid   "videostories_setup"
+msgstr  ""
+
+msgid   "/languages"
+msgstr  ""
+
+msgid   "automatic-feed-links"
+msgstr  ""
+
+msgid   "title-tag"
+msgstr  ""
+
+msgid   "post-thumbnails"
+msgstr  ""
+
+msgid   "videostories-blog"
+msgstr  ""
+
+msgid   "750"
+msgstr  ""
+
+msgid   "425"
+msgstr  ""
+
+msgid   "attachment:video"
+msgstr  ""
+
+msgid   "thumbnail"
+msgstr  ""
+
+msgid   "video"
+msgstr  ""
+
+msgid   "attachment:audio"
+msgstr  ""
+
+msgid   "main-menu"
+msgstr  ""
+
+msgid   "Main Menu"
+msgstr  ""
+
+msgid   "html5"
+msgstr  ""
+
+msgid   "search-form"
+msgstr  ""
+
+msgid   "comment-form"
+msgstr  ""
+
+msgid   "comment-list"
+msgstr  ""
+
+msgid   "gallery"
+msgstr  ""
+
+msgid   "caption"
+msgstr  ""
+
+msgid   "post-formats"
+msgstr  ""
+
+msgid   "aside"
+msgstr  ""
+
+msgid   "image"
+msgstr  ""
+
+msgid   "audio"
+msgstr  ""
+
+msgid   "quote"
+msgstr  ""
+
+msgid   "link"
+msgstr  ""
+
+msgid   "status"
+msgstr  ""
+
+msgid   "chat"
+msgstr  ""
+
+msgid   "inc/editor-style.css"
+msgstr  ""
+
+msgid   "custom-logo"
+msgstr  ""
+
+msgid   "width"
+msgstr  ""
+
+msgid   "height"
+msgstr  ""
+
+msgid   "flex-width"
+msgstr  ""
+
+msgid   "custom-background"
+msgstr  ""
+
+msgid   "videostories_custom_background_args"
+msgstr  ""
+
+msgid   "default-color"
+msgstr  ""
+
+msgid   "ffffff"
+msgstr  ""
+
+msgid   "default-image"
+msgstr  ""
+
+msgid   ""
+msgstr  ""
+
+msgid   "customize-selective-refresh-widgets"
+msgstr  ""
+
+msgid   "after_setup_theme"
+msgstr  ""
+
+msgid   "content_width"
+msgstr  ""
+
+msgid   "videostories_content_width"
+msgstr  ""
+
+msgid   "off"
+msgstr  ""
+
+msgid   "on"
+msgstr  ""
+
+msgid   "Google font: on or off"
+msgstr  ""
+
+msgid   "family"
+msgstr  ""
+
+msgid   "Arizonia|Poppins:400,500,600,700|Roboto: 400,500,700|Lato:400,700,900"
+msgstr  ""
+
+msgid   "//fonts.googleapis.com/css"
+msgstr  ""
+
+msgid   "themify-icons"
+msgstr  ""
+
+msgid   "themify-icons.css"
+msgstr  ""
+
+msgid   "bootstrap"
+msgstr  ""
+
+msgid   "bootstrap.min.css"
+msgstr  ""
+
+msgid   "font-awesome"
+msgstr  ""
+
+msgid   "font-awesome.min.css"
+msgstr  ""
+
+msgid   "magnific-popup"
+msgstr  ""
+
+msgid   "magnific-popup.css"
+msgstr  ""
+
+msgid   "owl-carousel"
+msgstr  ""
+
+msgid   "owl.carousel.css"
+msgstr  ""
+
+msgid   "animate"
+msgstr  ""
+
+msgid   "animate.min.css"
+msgstr  ""
+
+msgid   "videostories-style"
+msgstr  ""
+
+msgid   "videostories-header"
+msgstr  ""
+
+msgid   "header.css"
+msgstr  ""
+
+msgid   "videostories-themes"
+msgstr  ""
+
+msgid   "themes.css"
+msgstr  ""
+
+msgid   "videostories-responsive"
+msgstr  ""
+
+msgid   "responsive.css"
+msgstr  ""
+
+msgid   "videostories-google-fonts"
+msgstr  ""
+
+msgid   "videostories-plugins"
+msgstr  ""
+
+msgid   "plugins.js"
+msgstr  ""
+
+msgid   "jquery"
+msgstr  ""
+
+msgid   "bootstrap.js"
+msgstr  ""
+
+msgid   "magnific.popup.js"
+msgstr  ""
+
+msgid   "match-height"
+msgstr  ""
+
+msgid   "match.height.js"
+msgstr  ""
+
+msgid   "owl.carousel.js"
+msgstr  ""
+
+msgid   "videostories-main"
+msgstr  ""
+
+msgid   "main.js"
+msgstr  ""
+
+msgid   "imagesloaded"
+msgstr  ""
+
+msgid   "videostories_params"
+msgstr  ""
+
+msgid   "videostories_ajax_url"
+msgstr  ""
+
+msgid   "thread_comments"
+msgstr  ""
+
+msgid   "comment-reply"
+msgstr  ""
+
+msgid   "wp_enqueue_scripts"
+msgstr  ""
+
+msgid   "videostories_scripts"
+msgstr  ""
+
+msgid   "/inc/extras.php"
+msgstr  ""
+
+msgid   "/inc/customizer.php"
+msgstr  ""
+
+msgid   "/inc/template-tags.php"
+msgstr  ""
+
+msgid   "/inc/theme-functions.php"
+msgstr  ""
+
+msgid   "/inc/widgets.php"
+msgstr  ""
+
+msgid   "JETPACK__VERSION"
+msgstr  ""
+
+msgid   "/inc/jetpack.php"
+msgstr  ""
+
+msgid   "wp_bootstrap_navwalker"
+msgstr  ""
+
+msgid   "/inc/wp_bootstrap_navwalker.php"
+msgstr  ""
+
+msgid   "charset"
+msgstr  ""
+
+msgid   "menu"
+msgstr  ""
+
+msgid   "theme_location"
+msgstr  ""
+
+msgid   "depth"
+msgstr  ""
+
+msgid   "container"
+msgstr  ""
+
+msgid   "ul"
+msgstr  ""
+
+msgid   "container_class"
+msgstr  ""
+
+msgid   "nav navbar-nav"
+msgstr  ""
+
+msgid   "menu_class"
+msgstr  ""
+
+msgid   "container_id"
+msgstr  ""
+
+msgid   "menu_id"
+msgstr  ""
+
+msgid   "fallback_cb"
+msgstr  ""
+
+msgid   "wp_bootstrap_navwalker::fallback"
+msgstr  ""
+
+msgid   "walker"
+msgstr  ""
+
+msgid   "none"
+msgstr  ""
+
+msgid   "page"
+msgstr  ""
+
+#, php-format
+msgid   "Search Results for: %s"
+msgstr  ""
+
+msgid   "<span>"
+msgstr  ""
+
+msgid   "</span>"
+msgstr  ""
+
+msgid   "/"
+msgstr  ""
+
+msgid   "Search Here ...."
+msgstr  ""
+
+msgid   "blog-sidebar"
+msgstr  ""
+
+msgid   "single"
+msgstr  ""
+
+msgid   "videostories_header_style"
+msgstr  ""
+
+msgid   "blogname"
+msgstr  ""
+
+msgid   "postMessage"
+msgstr  ""
+
+msgid   "blogdescription"
+msgstr  ""
+
+msgid   "social_section"
+msgstr  ""
+
+msgid   "title"
+msgstr  ""
+
+msgid   "Top Socials"
+msgstr  ""
+
+msgid   "priority"
+msgstr  ""
+
+msgid   "twitter"
+msgstr  ""
+
+msgid   "sanitize_callback"
+msgstr  ""
+
+msgid   "sanitize_text_field"
+msgstr  ""
+
+msgid   "skype"
+msgstr  ""
+
+msgid   "instagram"
+msgstr  ""
+
+msgid   "dribble"
+msgstr  ""
+
+msgid   "vimeo"
+msgstr  ""
+
+msgid   "facebook"
+msgstr  ""
+
+msgid   "label"
+msgstr  ""
+
+msgid   "Facebook URL"
+msgstr  ""
+
+msgid   "section"
+msgstr  ""
+
+msgid   "settings"
+msgstr  ""
+
+msgid   "text"
+msgstr  ""
+
+msgid   "Twitter URL"
+msgstr  ""
+
+msgid   "Skype URL"
+msgstr  ""
+
+msgid   "Instagram URL"
+msgstr  ""
+
+msgid   "Dribble URL"
+msgstr  ""
+
+msgid   "Vimeo URL"
+msgstr  ""
+
+msgid   "footer_section"
+msgstr  ""
+
+msgid   "Footer Settings"
+msgstr  ""
+
+msgid   "copyright_text"
+msgstr  ""
+
+msgid   "sanitize_textarea_field"
+msgstr  ""
+
+msgid   "Copyright Text"
+msgstr  ""
+
+msgid   "description"
+msgstr  ""
+
+msgid   "Footer Credit"
+msgstr  ""
+
+msgid   "textarea"
+msgstr  ""
+
+msgid   "customize_register"
+msgstr  ""
+
+msgid   "videostories_customize_register"
+msgstr  ""
+
+msgid   "videostories_customizer"
+msgstr  ""
+
+msgid   "/assets/js/customizer.js"
+msgstr  ""
+
+msgid   "customize-preview"
+msgstr  ""
+
+msgid   "20151215"
+msgstr  ""
+
+msgid   "customize_preview_init"
+msgstr  ""
+
+msgid   "videostories_customize_preview_js"
+msgstr  ""
+
+msgid   "group-blog"
+msgstr  ""
+
+msgid   "hfeed"
+msgstr  ""
+
+msgid   "body_class"
+msgstr  ""
+
+msgid   "videostories_body_classes"
+msgstr  ""
+
+msgid   "infinite-scroll"
+msgstr  ""
+
+msgid   "main"
+msgstr  ""
+
+msgid   "render"
+msgstr  ""
+
+msgid   "videostories_infinite_scroll_render"
+msgstr  ""
+
+msgid   "footer"
+msgstr  ""
+
+msgid   "jetpack-responsive-videos"
+msgstr  ""
+
+msgid   "videostories_jetpack_setup"
+msgstr  ""
+
+msgid   "search"
+msgstr  ""
+
+msgid   "videostories_categories"
+msgstr  ""
+
+msgid   "fields"
+msgstr  ""
+
+msgid   "ids"
+msgstr  ""
+
+msgid   "hide_empty"
+msgstr  ""
+
+msgid   "number"
+msgstr  ""
+
+msgid   "author-sidebar"
+msgstr  ""
+
+msgid   "header-banner"
+msgstr  ""
+
+msgid   "U"
+msgstr  ""
+
+msgid   "timestamp"
+msgstr  ""
+
+msgid   "0"
+msgstr  ""
+
+msgid   "1"
+msgstr  ""
+
+msgid   "%"
+msgstr  ""
+
+msgid   "<span class=\"author vcard\"><a class=\"url fn n\" href=\""
+msgstr  ""
+
+msgid   "ID"
+msgstr  ""
+
+msgid   "\">"
+msgstr  ""
+
+msgid   "</a></span>"
+msgstr  ""
+
+msgid   "Post navigation"
+msgstr  ""
+
+msgid   "%link"
+msgstr  ""
+
+msgid   "<span class=\"meta-nav\">"
+msgstr  ""
+
+msgid   "Published In"
+msgstr  ""
+
+msgid   "</span>%title"
+msgstr  ""
+
+msgid   "Previous Post"
+msgstr  ""
+
+msgid   "</span><i class=\"fa fa-angle-double-left\"></i><h2 class=\"entry-"
+        "title\">%title</h2>"
+msgstr  ""
+
+msgid   "Next Post"
+msgstr  ""
+
+msgid   "</span><span class=\"nav-icon\"></span><h2 class=\"entry-title\">"
+        "%title</h2><i class=\"fa fa-angle-double-right\"></i>"
+msgstr  ""
+
+msgid   "videostories_get_post_authorID"
+msgstr  ""
+
+msgid   "pingback"
+msgstr  ""
+
+msgid   "trackback"
+msgstr  ""
+
+msgid   "Pingback:"
+msgstr  ""
+
+msgid   "(Edit)"
+msgstr  ""
+
+msgid   "<span class=\"edit-link\">"
+msgstr  ""
+
+msgid   "comment parent media"
+msgstr  ""
+
+msgid   "reply_text"
+msgstr  ""
+
+msgid   "Reply"
+msgstr  ""
+
+msgid   "after"
+msgstr  ""
+
+msgid   "max_depth"
+msgstr  ""
+
+msgid   "c"
+msgstr  ""
+
+msgid   "M j, Y"
+msgstr  ""
+
+msgid   "at"
+msgstr  ""
+
+msgid   "the_custom_logo"
+msgstr  ""
+
+msgid   "name"
+msgstr  ""
+
+msgid   "&copy; "
+msgstr  ""
+
+msgid   "Y"
+msgstr  ""
+
+msgid   " | Developed with "
+msgstr  ""
+
+msgid   "<i class=\"fa fa-heart\"></i> "
+msgstr  ""
+
+msgid   "by"
+msgstr  ""
+
+msgid   " <a href=\""
+msgstr  ""
+
+msgid   "https://prowptheme.com"
+msgstr  ""
+
+msgid   "ProWPTheme"
+msgstr  ""
+
+msgid   "</a>"
+msgstr  ""
+
+msgid   "Welcome Back!"
+msgstr  ""
+
+msgid   "Continue Reading"
+msgstr  ""
+
+msgid   "/images/404.jpg"
+msgstr  ""
+
+msgid   "Sorry!! 404 Error!"
+msgstr  ""
+
+msgid   "Page Not Found"
+msgstr  ""
+
+msgid   "There was Some Problem Finding the page You Requested"
+msgstr  ""
+
+msgid   "Return Home"
+msgstr  ""
+
+msgid   "Blog Sidebar"
+msgstr  ""
+
+msgid   "id"
+msgstr  ""
+
+msgid   "Add widget on Blog Sidebar"
+msgstr  ""
+
+msgid   "before_widget"
+msgstr  ""
+
+#, php-format
+msgid   "<div id=\"%1$s\" class=\"widget %2$s\">"
+msgstr  ""
+
+msgid   "after_widget"
+msgstr  ""
+
+msgid   "before_title"
+msgstr  ""
+
+msgid   "<h3 class=\"widget-title\">"
+msgstr  ""
+
+msgid   "after_title"
+msgstr  ""
+
+msgid   "</h3>"
+msgstr  ""
+
+msgid   "Footer Sidebar"
+msgstr  ""
+
+msgid   "Add Footer Sidebar widgets"
+msgstr  ""
+
+#, php-format
+msgid   "<div class=\"col-md-3 col-sm-6\"><div id=\"%1$s\" class=\"widget %2$s"
+        "\">"
+msgstr  ""
+
+msgid   "</div></div>"
+msgstr  ""
+
+msgid   "Top Header Banner Ads"
+msgstr  ""
+
+msgid   "Add Banner Ads widgets"
+msgstr  ""
+
+#, php-format
+msgid   "<div id=\"%1$s\" class=\"widget widget_banner_ad\"><div class="
+        "\"widget-details\">"
+msgstr  ""
+
+msgid   "widgets_init"
+msgstr  ""
+
+msgid   "videostories_widgets"
+msgstr  ""
+
+msgid   "\t"
+msgstr  ""
+
+msgid   "divider"
+msgstr  ""
+
+msgid   "<li role=\"presentation\" class=\"divider\">"
+msgstr  ""
+
+msgid   "dropdown-header"
+msgstr  ""
+
+msgid   "<li role=\"presentation\" class=\"dropdown-header\">"
+msgstr  ""
+
+msgid   "disabled"
+msgstr  ""
+
+msgid   "<li role=\"presentation\" class=\"disabled\"><a href=\"#\">"
+msgstr  ""
+
+msgid   "menu-item-"
+msgstr  ""
+
+msgid   " "
+msgstr  ""
+
+msgid   "nav_menu_css_class"
+msgstr  ""
+
+msgid   " dropdown"
+msgstr  ""
+
+msgid   "current-menu-item"
+msgstr  ""
+
+msgid   " active"
+msgstr  ""
+
+msgid   " class=\""
+msgstr  ""
+
+msgid   "\""
+msgstr  ""
+
+msgid   "nav_menu_item_id"
+msgstr  ""
+
+msgid   " id=\""
+msgstr  ""
+
+msgid   "<li"
+msgstr  ""
+
+msgid   ">"
+msgstr  ""
+
+msgid   "target"
+msgstr  ""
+
+msgid   "rel"
+msgstr  ""
+
+msgid   "href"
+msgstr  ""
+
+msgid   "#"
+msgstr  ""
+
+msgid   "data-toggle"
+msgstr  ""
+
+msgid   "dropdown"
+msgstr  ""
+
+msgid   "class"
+msgstr  ""
+
+msgid   "dropdown-toggle"
+msgstr  ""
+
+msgid   "aria-haspopup"
+msgstr  ""
+
+msgid   "true"
+msgstr  ""
+
+msgid   "aria-expanded"
+msgstr  ""
+
+msgid   "false"
+msgstr  ""
+
+msgid   "nav_menu_link_attributes"
+msgstr  ""
+
+msgid   "=\""
+msgstr  ""
+
+msgid   "<a"
+msgstr  ""
+
+msgid   ">&nbsp;"
+msgstr  ""
+
+msgid   "the_title"
+msgstr  ""
+
+msgid   " </a>"
+msgstr  ""
+
+msgid   "walker_nav_menu_start_el"
+msgstr  ""
+
+msgid   "manage_options"
+msgstr  ""
+
+msgid   "<"
+msgstr  ""
+
+msgid   "<ul"
+msgstr  ""
+
+msgid   "<li><a href=\""
+msgstr  ""
+
+msgid   "nav-menus.php"
+msgstr  ""
+
+msgid   "Add a Menu"
+msgstr  ""
+
+msgid   "</a></li>"
+msgstr  ""
+
+msgid   "</ul>"
+msgstr  ""
+
+msgid   "</"
+msgstr  ""
+
+msgid   ", "
+msgstr  ""
+
+#, php-format
+msgid   "<span class=\"category tag\">%1$s"
+msgstr  ""
+
+msgid   "Nothing Found"
+msgstr  ""
+
+msgid   "publish_posts"
+msgstr  ""
+
+#, php-format
+msgid   "Ready to publish your first post? <a href=\"%1$s\">Get started here</"
+        "a>."
+msgstr  ""
+
+msgid   "a"
+msgstr  ""
+
+msgid   "post-new.php"
+msgstr  ""
+
+msgid   "Sorry, but nothing matched your search terms. Please try again with "
+        "some different keywords."
+msgstr  ""
+
+msgid   "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+        "searching can help."
+msgstr  ""
+
+msgid   "<h1 class=\"entry-title\">"
+msgstr  ""
+
+msgid   "</h1>"
+msgstr  ""
+
+msgid   "before"
+msgstr  ""
+
+msgid   "<div class=\"page-links\">"
+msgstr  ""
+
+msgid   "Pages:"
+msgstr  ""
+
+#, php-format
+msgid   "Edit %s"
+msgstr  ""
+
+msgid   "<span class=\"screen-reader-text\">\""
+msgstr  ""
+
+msgid   "\"</span>"
+msgstr  ""
+
+#, php-format
+msgid   "<h2 class=\"entry-title\"><a href=\"%s\" rel=\"bookmark\">"
+msgstr  ""
+
+msgid   "</a></h2>"
+msgstr  ""
+
+msgid   "post"
+msgstr  ""
+
+msgid   "<h2 class=\"entry-title\"><a href=\""
+msgstr  ""
+
+msgid   "\" rel=\"bookmark\">"
+msgstr  ""
